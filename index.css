@@ -1,0 +1,14 @@
+*{
+    font-family: 'Verdana', Courier, monospace;
+}
+
+section, table, td, th{
+    border: 1px solid black;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+tr > td {
+    color:darkgreen;
+    text-align:center;
+}
